@@ -23,7 +23,7 @@ public class MetalArt {
 		double slantPyramidLength2;
 		double basePyramidArea1;
 		double basePyramidArea2;
-	    double surfacePyramidArea1;
+	    	double surfacePyramidArea1;
 		double surfacePyramidArea2;
 		double prismSurfaceArea;
 		double prismHeight;
